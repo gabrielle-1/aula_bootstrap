@@ -1,0 +1,32 @@
+body{
+    font: 20px 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.navbar {
+    background-color: #c4dae0;
+}
+
+.quem-somos{
+    background-color:  #8e9bb2;
+    color: rgba(0, 0, 0, 0.884);
+}
+
+.margin{
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #0e1016;
+    color:white;
+}
+
+.servicos{
+    background-color: #4b515f;
+    color:white;
+}
+
+.bg-footer{
+    background-color: black;
+    color:white;
+}
